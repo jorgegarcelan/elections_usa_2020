@@ -1,4 +1,4 @@
-# 🗳️ Análisis de las Elecciones Generales de España 2023 🇪🇸
+# 🗳️ Análisis de las Elecciones Generales de Estados Unidos 2020
 
 Este repositorio contiene un proyecto de análisis de datos basado en los resultados de las elecciones generales de España de 2023. El objetivo es aplicar técnicas de **aprendizaje supervisado** y **no supervisado** para explorar los patrones, tendencias y resultados de las votaciones. Además, utilizaremos diversas metodologías de ciencia de datos para visualizar y predecir el comportamiento electoral.
 
