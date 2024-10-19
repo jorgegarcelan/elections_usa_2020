@@ -5,3 +5,5 @@ plotly
 nbformat>=4.2.0
 geopandas
 seaborn
+statsmodels
+scikit-learn

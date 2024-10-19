@@ -1,6 +1,6 @@
-# 🗳️ Análisis de las Elecciones Generales de Estados Unidos 2020
+# 🗳️ Análisis de las Elecciones Presidenciales de Estados Unidos 2020
 
-Este repositorio contiene un proyecto de análisis de datos basado en los resultados de las elecciones generales de España de 2023. El objetivo es aplicar técnicas de **aprendizaje supervisado** y **no supervisado** para explorar los patrones, tendencias y resultados de las votaciones. Además, utilizaremos diversas metodologías de ciencia de datos para visualizar y predecir el comportamiento electoral.
+Este repositorio contiene un proyecto de análisis de datos basado en los resultados de las elecciones presidenciales de Estados Unidos de 2020. El objetivo es aplicar técnicas de **aprendizaje supervisado** y **no supervisado** para explorar los patrones, tendencias y resultados de las votaciones. Además, utilizaremos diversas metodologías de ciencia de datos para visualizar y predecir el comportamiento electoral.
 
 ## 🚀 Objetivos del Proyecto
 
@@ -45,16 +45,14 @@ Este repositorio contiene un proyecto de análisis de datos basado en los result
 
 ## 📈 Dataset
 
-Los datos incluyen los resultados por circunscripción, así como características demográficas y socioeconómicas adicionales. La fuente principal de los datos es el **Ministerio del Interior** y otras bases de datos públicas relacionadas con las elecciones. 
+Los datos incluyen los resultados por circunscripción, así como características demográficas y socioeconómicas adicionales.
 ### Datasets Electorales
-- `muncipios.csv`: Datos Municipios/Congreso/2023 - 23 de Julio/ 
-- `circunscripciones.csv`: Datos Circunscripciones/Congreso/2023 - 23 de Julio/
+- `2020_US_County_Level_Presidential_Results.csv`: Datos electorales por US county.
 
-[URL datasets electorales](https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/) 📊
+[URL datasets electorales](https://github.com/tonmcg/US_County_Level_Election_Results_08-20) 📊
 
 ### Datasets Características Población
-- `muncipios.csv`: Datos Municipios/Congreso/2023 - 23 de Julio/ 
-- `circunscripciones.csv`: Datos Circunscripciones/Congreso/2023 - 23 de Julio/
+- `county_complete.csv`: Datos con las características socioeconómicas y demográficas en cada US county.
 
 [URL datasets características](https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/) 📊
 
