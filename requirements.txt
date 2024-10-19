@@ -1,3 +1,5 @@
 matplotlib
 pandas
 tabulate
+plotly
+nbformat>=4.2.0
