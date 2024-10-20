@@ -8,9 +8,11 @@
         - KNN
         - LDA, QDA
         - Naive Bayes
+        - Logistic Regression
     - Regression (forward, backward selection)
         - Linear Regression
-        - Logistic Regression
+        - KNN
+        - Random Forest
 
 - Unsupervised
     - Clustering

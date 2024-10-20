@@ -7,3 +7,4 @@ geopandas
 seaborn
 statsmodels
 scikit-learn
+dtreeviz
