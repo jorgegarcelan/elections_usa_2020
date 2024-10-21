@@ -54,7 +54,7 @@ Los datos incluyen los resultados por circunscripción, así como característic
 ### Datasets Características Población
 - `county_complete.csv`: Datos con las características socioeconómicas y demográficas en cada US county.
 
-[URL datasets características](https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/) 📊
+[URL datasets características](https://www.openintro.org/data/?data=county_complete) 📊
 
 
 
